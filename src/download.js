@@ -1,6 +1,6 @@
 'use strict'
 
-const { getHash } = require('blockchain-spv')
+const { getHash } = require('blockchain-XCN')
 
 function getLocator (chain) {
   let locator = []
